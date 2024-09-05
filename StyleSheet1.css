@@ -1,0 +1,65 @@
+﻿Content2.details {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+Content2.details .sections {
+    width: calc(100% / 2 - 20px);
+    margin-bottom: 15px;
+}
+
+Content2.details .sections .texts {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+Content2.details .sections input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    font-size: 15px;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+
+Content2.bodyody .containerr form .details .gender {
+    padding-right: 150px;
+}
+
+Content2.bodyody .containerr form .details .gender .gentitle {
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 2px solid;
+}
+
+Content2.details .gender .catagory {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin: 10px;
+}
+
+Content2 .details .button {
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 300px;
+}
+
+Content2.details .button input {
+    cursor: pointer;
+    padding: 10px 0;
+    margin-top: 10px;
+    height: 100%;
+    width: 400%;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    background: linear-gradient(135deg,yellow,blue);
+}
